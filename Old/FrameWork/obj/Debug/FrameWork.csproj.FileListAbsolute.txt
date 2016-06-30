@@ -1,0 +1,15 @@
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\FrameWork\obj\Debug\FrameWork.pdb
+D:\WCFTestSoln\FrameWork\bin\Debug\FrameWork.dll
+D:\WCFTestSoln\FrameWork\bin\Debug\FrameWork.pdb
+D:\WCFTestSoln\FrameWork\obj\Debug\ResolveAssemblyReference.cache
+D:\WCFTestSoln\FrameWork\obj\Debug\FrameWork.dll
+D:\WCFTestSoln\FrameWork\obj\Debug\FrameWork.pdb
+F:\WCFTestSoln\FrameWork\bin\Debug\FrameWork.dll
+F:\WCFTestSoln\FrameWork\bin\Debug\FrameWork.pdb
+F:\WCFTestSoln\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+F:\WCFTestSoln\FrameWork\obj\Debug\FrameWork.dll
+F:\WCFTestSoln\FrameWork\obj\Debug\FrameWork.pdb

@@ -1,0 +1,40 @@
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\TestWcfService.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\TestWcfService.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\ContractImplementation.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\WCFTestContract.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\DALLib.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\FrameWork.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\ContractImplementation.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\WCFTestContract.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\DALLib.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\bin\FrameWork.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.pdb
+D:\WCFTestSoln\TestWcfService\bin\TestWcfService.dll
+D:\WCFTestSoln\TestWcfService\bin\TestWcfService.pdb
+D:\WCFTestSoln\TestWcfService\bin\ContractImplementation.dll
+D:\WCFTestSoln\TestWcfService\bin\WCFTestContract.dll
+D:\WCFTestSoln\TestWcfService\bin\DALLib.dll
+D:\WCFTestSoln\TestWcfService\bin\FrameWork.dll
+D:\WCFTestSoln\TestWcfService\bin\ContractImplementation.pdb
+D:\WCFTestSoln\TestWcfService\bin\WCFTestContract.pdb
+D:\WCFTestSoln\TestWcfService\bin\DALLib.pdb
+D:\WCFTestSoln\TestWcfService\bin\FrameWork.pdb
+D:\WCFTestSoln\TestWcfService\obj\Debug\ResolveAssemblyReference.cache
+D:\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.dll
+D:\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.pdb
+F:\WCFTestSoln\TestWcfService\bin\TestWcfService.dll.config
+F:\WCFTestSoln\TestWcfService\bin\TestWcfService.dll
+F:\WCFTestSoln\TestWcfService\bin\TestWcfService.pdb
+F:\WCFTestSoln\TestWcfService\bin\ContractImplementation.dll
+F:\WCFTestSoln\TestWcfService\bin\WCFTestContract.dll
+F:\WCFTestSoln\TestWcfService\bin\DALLib.dll
+F:\WCFTestSoln\TestWcfService\bin\FrameWork.dll
+F:\WCFTestSoln\TestWcfService\bin\ContractImplementation.pdb
+F:\WCFTestSoln\TestWcfService\bin\WCFTestContract.pdb
+F:\WCFTestSoln\TestWcfService\bin\DALLib.pdb
+F:\WCFTestSoln\TestWcfService\bin\FrameWork.pdb
+F:\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.csprojResolveAssemblyReference.cache
+F:\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.dll
+F:\WCFTestSoln\TestWcfService\obj\Debug\TestWcfService.pdb

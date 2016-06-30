@@ -1,0 +1,14 @@
+c:\users\wx75\documents\visual studio 2010\Projects\WCFTestSoln\WCFTestContract\bin\Debug\WCFTestContract.dll
+c:\users\wx75\documents\visual studio 2010\Projects\WCFTestSoln\WCFTestContract\bin\Debug\WCFTestContract.pdb
+c:\users\wx75\documents\visual studio 2010\Projects\WCFTestSoln\WCFTestContract\obj\Debug\ResolveAssemblyReference.cache
+c:\users\wx75\documents\visual studio 2010\Projects\WCFTestSoln\WCFTestContract\obj\Debug\WCFTestContract.dll
+c:\users\wx75\documents\visual studio 2010\Projects\WCFTestSoln\WCFTestContract\obj\Debug\WCFTestContract.pdb
+D:\WCFTestSoln\WCFTestContract\bin\Debug\WCFTestContract.dll
+D:\WCFTestSoln\WCFTestContract\bin\Debug\WCFTestContract.pdb
+D:\WCFTestSoln\WCFTestContract\obj\Debug\ResolveAssemblyReference.cache
+D:\WCFTestSoln\WCFTestContract\obj\Debug\WCFTestContract.dll
+D:\WCFTestSoln\WCFTestContract\obj\Debug\WCFTestContract.pdb
+F:\WCFTestSoln\WCFTestContract\bin\Debug\WCFTestContract.dll
+F:\WCFTestSoln\WCFTestContract\bin\Debug\WCFTestContract.pdb
+F:\WCFTestSoln\WCFTestContract\obj\Debug\WCFTestContract.dll
+F:\WCFTestSoln\WCFTestContract\obj\Debug\WCFTestContract.pdb

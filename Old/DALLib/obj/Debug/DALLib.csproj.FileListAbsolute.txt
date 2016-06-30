@@ -1,0 +1,27 @@
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\bin\Debug\DALLib.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\bin\Debug\DALLib.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\bin\Debug\FrameWork.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\bin\Debug\WCFTestContract.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\bin\Debug\FrameWork.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\bin\Debug\WCFTestContract.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\obj\Debug\DALLib.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\DALLib\obj\Debug\DALLib.pdb
+D:\WCFTestSoln\DALLib\obj\Debug\ResolveAssemblyReference.cache
+D:\WCFTestSoln\DALLib\bin\Debug\DALLib.dll
+D:\WCFTestSoln\DALLib\bin\Debug\DALLib.pdb
+D:\WCFTestSoln\DALLib\bin\Debug\FrameWork.dll
+D:\WCFTestSoln\DALLib\bin\Debug\WCFTestContract.dll
+D:\WCFTestSoln\DALLib\bin\Debug\FrameWork.pdb
+D:\WCFTestSoln\DALLib\bin\Debug\WCFTestContract.pdb
+D:\WCFTestSoln\DALLib\obj\Debug\DALLib.dll
+D:\WCFTestSoln\DALLib\obj\Debug\DALLib.pdb
+F:\WCFTestSoln\DALLib\bin\Debug\DALLib.dll
+F:\WCFTestSoln\DALLib\bin\Debug\DALLib.pdb
+F:\WCFTestSoln\DALLib\bin\Debug\FrameWork.dll
+F:\WCFTestSoln\DALLib\bin\Debug\WCFTestContract.dll
+F:\WCFTestSoln\DALLib\bin\Debug\FrameWork.pdb
+F:\WCFTestSoln\DALLib\bin\Debug\WCFTestContract.pdb
+F:\WCFTestSoln\DALLib\obj\Debug\DALLib.csprojResolveAssemblyReference.cache
+F:\WCFTestSoln\DALLib\obj\Debug\DALLib.dll
+F:\WCFTestSoln\DALLib\obj\Debug\DALLib.pdb

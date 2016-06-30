@@ -1,0 +1,1 @@
+c:\users\wx75\documents\visual studio 2010\Projects\WCFTestSoln\TestWCF\obj\Debug\ResolveAssemblyReference.cache

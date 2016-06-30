@@ -1,0 +1,33 @@
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\ContractImplementation.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\ContractImplementation.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\DALLib.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\WCFTestContract.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\FrameWork.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\DALLib.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\WCFTestContract.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\bin\Debug\FrameWork.pdb
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.dll
+C:\Users\WX75\Documents\Visual Studio 2010\Projects\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.pdb
+D:\WCFTestSoln\ContractImplementation\bin\Debug\ContractImplementation.dll
+D:\WCFTestSoln\ContractImplementation\bin\Debug\ContractImplementation.pdb
+D:\WCFTestSoln\ContractImplementation\bin\Debug\DALLib.dll
+D:\WCFTestSoln\ContractImplementation\bin\Debug\WCFTestContract.dll
+D:\WCFTestSoln\ContractImplementation\bin\Debug\FrameWork.dll
+D:\WCFTestSoln\ContractImplementation\bin\Debug\DALLib.pdb
+D:\WCFTestSoln\ContractImplementation\bin\Debug\WCFTestContract.pdb
+D:\WCFTestSoln\ContractImplementation\bin\Debug\FrameWork.pdb
+D:\WCFTestSoln\ContractImplementation\obj\Debug\ResolveAssemblyReference.cache
+D:\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.dll
+D:\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.pdb
+F:\WCFTestSoln\ContractImplementation\bin\Debug\ContractImplementation.dll
+F:\WCFTestSoln\ContractImplementation\bin\Debug\ContractImplementation.pdb
+F:\WCFTestSoln\ContractImplementation\bin\Debug\DALLib.dll
+F:\WCFTestSoln\ContractImplementation\bin\Debug\WCFTestContract.dll
+F:\WCFTestSoln\ContractImplementation\bin\Debug\FrameWork.dll
+F:\WCFTestSoln\ContractImplementation\bin\Debug\DALLib.pdb
+F:\WCFTestSoln\ContractImplementation\bin\Debug\WCFTestContract.pdb
+F:\WCFTestSoln\ContractImplementation\bin\Debug\FrameWork.pdb
+F:\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.csprojResolveAssemblyReference.cache
+F:\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.dll
+F:\WCFTestSoln\ContractImplementation\obj\Debug\ContractImplementation.pdb
